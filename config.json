@@ -1,0 +1,10 @@
+{
+
+    "signOptions" : {
+        "issuer":  "The Note",
+        "subject":  "console",
+        "audience":  "https://thenote.com",
+        "expiresIn":  "10d",
+        "algorithm":  "RS256"   
+    }
+}
